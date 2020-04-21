@@ -1,3 +1,3 @@
 # CovidMobile
-credits to the Data Science Campus for extraction code:
-https://github.com/datasciencecampus/mobility-report-data-extractor 
+Project By Noah Newberger and Sami Smalling.
+Downloading and extracting any and all data around the Covid-19 Pandemic. 
