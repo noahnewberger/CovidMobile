@@ -1,0 +1,13 @@
+0, No flag for this area
+1, Data is available and includes a footnote 
+2 (FN), Footnote on this item for this area in place of data
+3 (NA), Not available
+4 (D), Suppressed to avoid disclosure of confidential information
+5 (X), Not applicable
+6 (S), Suppressed; does not meet publication standards
+9 (F), Fewer than 100 firms
+7 (Z), Value greater than zero but less than half unit of measure shown
+
+
+
+
