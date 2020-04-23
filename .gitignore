@@ -130,3 +130,6 @@ dmypy.json
 
 #API Key
 census_api.txt
+
+#model runs
+models/
