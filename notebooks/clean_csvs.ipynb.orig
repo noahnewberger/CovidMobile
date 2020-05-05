@@ -2,8 +2,8 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1
-
+   "execution_count": 1,
+<<<<<<< HEAD
    "metadata": {
     "collapsed": true
    },
@@ -34,11 +34,11 @@
     {
      "data": {
       "text/plain": [
-
+<<<<<<< HEAD
        "'C:\\\\Users\\\\Noah\\\\CovidMobile'"
-
-    
-
+=======
+       "'/Users/samismalling/Documents/mobility-report-data-extractor-master/CovidMobile'"
+>>>>>>> 2f43e99ea4d69d7e0e6830ccdca917badafb1969
       ]
      },
      "execution_count": 2,
@@ -1844,7 +1844,7 @@
   },
   {
    "cell_type": "code",
-
+<<<<<<< HEAD
    "execution_count": 4,
    "metadata": {
     "collapsed": true
@@ -1852,7 +1852,7 @@
 =======
    "execution_count": 3,
    "metadata": {},
-
+>>>>>>> 2f43e99ea4d69d7e0e6830ccdca917badafb1969
    "outputs": [],
    "source": [
     "fips_to_county = pd.read_csv('./data/ZIP-COUNTY-FIPS_2017-06.csv')"
@@ -1894,15 +1894,15 @@
   },
   {
    "cell_type": "code",
-
+<<<<<<< HEAD
    "execution_count": 6,
    "metadata": {
     "collapsed": true
    },
-
+=======
    "execution_count": null,
    "metadata": {},
-
+>>>>>>> 2f43e99ea4d69d7e0e6830ccdca917badafb1969
    "outputs": [],
    "source": [
     "from pymongo import MongoClient\n",
@@ -1926,12 +1926,12 @@
   },
   {
    "cell_type": "code",
-
+<<<<<<< HEAD
    "execution_count": null,
    "metadata": {
     "collapsed": true
    },
-
+=======
    "execution_count": 62,
    "metadata": {},
    "outputs": [],
@@ -1947,7 +1947,7 @@
    "cell_type": "code",
    "execution_count": 99,
    "metadata": {},
-
+>>>>>>> 2f43e99ea4d69d7e0e6830ccdca917badafb1969
    "outputs": [],
    "source": [
     "dc_weather = pd.DataFrame(columns = ['ZIP','timestamp','textDescription','temperature','precipitationLast6Hours','relativeHumidity','cloudLayers'])\n",
