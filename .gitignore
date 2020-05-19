@@ -134,4 +134,12 @@ census_api.txt
 #model runs
 models/
 data/
+
+
+
+
+#all SafeGraph data
 SafeGraph_data/
+
+
+
