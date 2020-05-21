@@ -96,16 +96,16 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-
-
-
+<<<<<<< HEAD
+   "metadata": {},
+=======
    "metadata": {
     "collapsed": true,
     "jupyter": {
      "outputs_hidden": true
     }
    },
-
+>>>>>>> df0b23dbcdd2b4e79c4714e4ad9890ec31af8311
    "outputs": [],
    "source": [
     "df[df['state_abb_x']=='TX'].groupby(['FIPS'])['date'].count().sort_values().to_csv('chk.csv')"
@@ -1635,9 +1635,9 @@
   },
   {
    "cell_type": "code",
-
-
-
+<<<<<<< HEAD
+   "execution_count": 34,
+=======
    "execution_count": 26,
    "metadata": {
     "collapsed": true,
@@ -1653,7 +1653,7 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-
+>>>>>>> df0b23dbcdd2b4e79c4714e4ad9890ec31af8311
    "metadata": {
     "scrolled": true
    },
@@ -2834,9 +2834,9 @@
   },
   {
    "cell_type": "code",
-
-
-
+<<<<<<< HEAD
+   "execution_count": 44,
+=======
    "execution_count": 33,
    "metadata": {
     "collapsed": true,
@@ -2852,7 +2852,7 @@
   {
    "cell_type": "code",
    "execution_count": 34,
-
+>>>>>>> df0b23dbcdd2b4e79c4714e4ad9890ec31af8311
    "metadata": {},
    "outputs": [
     {
