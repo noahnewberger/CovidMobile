@@ -9,7 +9,7 @@
 7,"3/3, 4/15",Early Rx Refill:,0.0,ALASKA
 8,3/11,Public Health Emergency: ,0.0,ALASKA
 9,"3/13, 3/20, 4/9",School Closures: ,0.0,ALASKA
-10,"3/17, 3/23, 3/27, 4/24","Stay At Home Order, Mandatory Quarantine for Travelers: ",0.0,ALASKA
+10,"3/17, 3/23, 3/27, 4/24, 5/15","Stay At Home Order, Mandatory Quarantine for Travelers: ",0.0,ALASKA
 11,3/17,Bar/Restaurant Limits: ,0.0,ALASKA
 12,"3/18, 4/15",Premium Grace Period: ,0.0,ALASKA
 13,"3/20, 3/23, 3/27","Non-Essential Business Closures, Large Gatherings Ban: ",0.0,ALASKA
@@ -22,421 +22,448 @@
 20,3/23,Section 1135 Waiver:,0.0,ARIZONA
 21,"3/30, 4/29","Stay at Home Order, Non-Essential Business Closures: ",0.0,ARIZONA
 22,3/30,Large Gatherings Ban: ,0.0,ARIZONA
-23,"4/7, 4/29",Mandatory Quarantine: ,0.0,ARIZONA
+23,"4/7, 4/29",Mandatory Quarantine for Travelers: ,0.0,ARIZONA
 24,5/8,"Non-Essential Business Closures (announced 4/29, 5/4); 5/11 Bar/Restaurant Limits (announced 5/4): ",1.0,ARIZONA
-25,"3/11, 5/5",Public Health Emergency: ,0.0,ARKANSAS
-26,"3/15, 3/20, 4/4","School Closure, Bar/Restaurant Limits: ",0.0,ARKANSAS
-27,"3/20, 3/27, 5/11",Premium Grace Period: ,0.0,ARKANSAS
-28,"3/26, 4/4",Large Gatherings Ban: ,0.0,ARKANSAS
-29,4/2,Section 1135 Waiver: ,0.0,ARKANSAS
-30,5/11,Bar/Restaurant Limits (announced 4/29):,1.0,ARKANSAS
-31,3/11,Emergency Declaration: ,0.0,CALIFORNIA
-32,3/20,Marketplace SEP: ,0.0,CALIFORNIA
-33,3/12,Executive Order mandating compliance with state guidance: ,0.0,CALIFORNIA
-34,3/16,Large Gatherings Ban: ,0.0,CALIFORNIA
-35,3/16,Bar/Restaurant ,0.0,CALIFORNIA
-36,3/18,Early Rx refill: ,0.0,CALIFORNIA
-37,3/19,"Stay At Home Order, Non-Essential Business Closures: ",0.0,CALIFORNIA
-38,3/23,Section 1135 Waiver: ,0.0,CALIFORNIA
-39,4/1,School Closures: ,0.0,CALIFORNIA
-40,5/8,Non-Essential Business Closure (announced 5/4): ,1.0,CALIFORNIA
-41,3/9,Early Rx Refill: ,0.0,COLORADO
-42,"3/10, 4/8",Emergency Declaration: ,0.0,COLORADO
-43,7,"CCR 1103-10 (2020), Colorado Health Emergency Leave with Pay (“Colorado HELP”) Rules.",0.0,COLORADO
-44,"3/16, 3/19",Bar/Restaurant Limits: ,0.0,COLORADO
-45,"3/18, 4/1, 4/20",School Closures: ,0.0,COLORADO
-46,3/19,Marketplace SEP: ,0.0,COLORADO
-47,3/26,Section 1135 Waiver: ,0.0,COLORADO
-48,"3/26, 4/6, 4/26","Stay At Home Order, Non-Essential Business Closure, Large Gatherings Ban: ",0.0,COLORADO
-49,4/27,"Stay at Home Order, Non-Essential Business Closure, Large Gatherings Ban (announced 4/26): ",1.0,COLORADO
-50,3/10,Civil Preparedness Emergency / Public Health Emergency: ,0.0,CONNECTICUT
-51,"3/11, 3/15, 3/23, 4/10, 5/5",School Closures: ,0.0,CONNECTICUT
-52,"3/16, 3/26",Bar/Restaurant ,0.0,CONNECTICUT
-53,3/17,Marketplace SEP:,0.0,CONNECTICUT
-54,"3/19, 4/17",Primary Election Postponement: ,0.0,CONNECTICUT
-55,3/20,Non-Essential Business Closures: ,0.0,CONNECTICUT
-56,3/27,Section 1135 Waiver: ,0.0,CONNECTICUT
-57,4/1,Premium Grace Period: ,0.0,CONNECTICUT
-58,4/10,"Extension of Bar/Restaurant Limits, Large Gatherings Ban, Non-Essential Business Closures: ",0.0,CONNECTICUT
-59,3/9,Early Rx Refill: ,0.0,DELAWARE
-60,"3/12, 3/23, 4/10, 5/8",Emergency Declarations: ,0.0,DELAWARE
-61,"3/13, 3/23, 4/24",School Closures: ,0.0,DELAWARE
-62,"3/16, 3/18, 4/1","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,DELAWARE
-63,3/22,Stay At Home Order: ,0.0,DELAWARE
-64,"3/22, 4/6",Non-Essential Business Closures: ,0.0,DELAWARE
-65,3/23,Waive Prior Auth: ,0.0,DELAWARE
-66,"3/24, 5/7",Primary Election Postponement: ,0.0,DELAWARE
-67,3/27,Section 1135 Waiver: ,0.0,DELAWARE
-68,3/29,Mandatory Quarantine for Travelers: ,0.0,DELAWARE
-69,4/1,Premium Grace Period: ,0.0,DELAWARE
-70,5/8,Non-Essential Business Closure (announced 5/7): ,1.0,DELAWARE
-71,3/11,Emergency Declaration / Public Health Emergency: ,0.0,DISTRICT OF COLUMBIA
-72,3/12:,"Cost-Sharing Waiver (Treatment), Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,DISTRICT OF COLUMBIA
-73,"3/20, 4/17",School Closures: ,0.0,DISTRICT OF COLUMBIA
-74,3/20,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,DISTRICT OF COLUMBIA
-75,3/24,"Non-Essential Business Closures, Large Gatherings Ban: ",0.0,DISTRICT OF COLUMBIA
-76,3/30,Stay At Home Order: ,0.0,DISTRICT OF COLUMBIA
-77,4/3,Section 1135 Waiver: ,0.0,DISTRICT OF COLUMBIA
-78,"4/15, 5/13","Extensions of Emergency Declarations, Bar/Restaurant Limits, Non-Essential Business Closures, Large Gatherings Ban, Stay At Home Order: ",0.0,DISTRICT OF COLUMBIA
-79,3/1,Public Health Emergency: ,0.0,FLORIDA
-80,"3/9, 5/8",Emergency Declaration: ,0.0,FLORIDA
-81,3/10,Early Rx Refill: ,0.0,FLORIDA
-82,3/16,Section 1135 Waiver: ,0.0,FLORIDA
-83,"3/17, 4/18",School Closures: ,0.0,FLORIDA
-84,"3/17, 3/20",Bar/Restaurant Limits: ,0.0,FLORIDA
-85,"3/24, 3/27, 4/29",Mandatory Quarantine for Travelers: ,0.0,FLORIDA
-86,"4/1, 4/29","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,FLORIDA
-87,"5/4, 5/11","Stay at Home Order, Non-Essential Business Closures, Bar/Restaurant Limits (announced 4/29, 5/9): ",1.0,FLORIDA
-88,3/14,Public Health Emergency: ,0.0,GEORGIA
-89,3/14,Primary Election Postponement: ,0.0,GEORGIA
-90,"3/16, 3/26, 4/1",School Closures: ,0.0,GEORGIA
-91,3/20,Early Rx Refill: ,0.0,GEORGIA
-92,3/20,Premium Grace Period: ,0.0,GEORGIA
-93,"3/23, 4/2, 4/8","Stay At Home Order, Bar/Restaurant Limits, Large Gatherings Ban: [03.23.20.01, 04.02.20.01, 04.08.20.02, 04.23.20.02, 04.30.20.01, 05.12.20.02] ",0.0,GEORGIA
-94,4/1,Section 1135 Waiver: ,0.0,GEORGIA
-95,4/24,"Non-Essential Business Closures, 4/27 Bar/Restaurant Limits, 5/1 Stay at Home Order (announced 4/20, 4/23, 4/30): ",1.0,GEORGIA
-96,3/4,Emergency Declaration: ,0.0,HAWAII
-97,3/15,School Closures: ,0.0,HAWAII
-98,"3/17, 3/21, 3/23,4/16, 4/25","Stay At Home Order, Mandatory Quarantine for Travelers, Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,HAWAII
-99,3/26,Section 1135 Waiver: ,0.0,HAWAII
-100,4/23,Non-Essential Business Closures: ,1.0,HAWAII
-101,"3/13, 4/22",Emergency Declaration: ,0.0,IDAHO
-102,"3/19, 3/25, 4/15",Stay At Home Order: ,0.0,IDAHO
-103,3/25,School Closure: ,0.0,IDAHO
-104,"3/25, 4/15","Large Gatherings, Non-Essential Business Closure, Bar/Restaurant Limits: ",0.0,IDAHO
-105,3/26,Section 1135 Waiver: ,0.0,IDAHO
-106,4/10,Cost-Sharing Waiver (Treatment): ,0.0,IDAHO
-107,4/15,Mandatory Quarantine for Travelers: ,0.0,IDAHO
-108,4/23,"Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",1.0,IDAHO
-109,3/9,Disaster Proclamation:,0.0,ILLINOIS
-110,"3/13, 4/1, 4/23",School Closures: ,0.0,ILLINOIS
-111,"3/20, 4/30","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban, Bar/Restaurant ",0.0,ILLINOIS
-112,3/23,Section 1135 Waiver: ,0.0,ILLINOIS
-113,4/20,Premium Grace Period: ,0.0,ILLINOIS
-114,3/6,Public Health Emergency: ,0.0,INDIANA
-115,3/16,Bar/Restaurant Limits: ,0.0,INDIANA
-116,3/19,School Closures: ,0.0,INDIANA
-117,3/20,Primary Election Postponement: ,0.0,INDIANA
-118,"3/23, 3/31, 4/20","Stay At Home Order, Non-Essential Business Closure, Large Gatherings: ",0.0,INDIANA
-119,3/25,Section 1135 Waiver: ,0.0,INDIANA
-120,5/1,"Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",1.0,INDIANA
-121,5/11,Restaurant Limits: ,1.0,INDIANA
-122,3/9,Proclamation of Disaster Emergency: ,0.0,IOWA
-123,"3/15, 4/2, 41/6, 4/27",School Closures: ,0.0,IOWA
-124,"3/17, 4/16, 4/27","Large Gatherings, Bar/Restaurant Limits: ",0.0,IOWA
-125,3/25,Section 1135 Waiver: ,0.0,IOWA
-126,"3/26, 4/6",Non-Essential Business Closure: ,0.0,IOWA
-127,"4/27, 5/6","Non-Essential Business Closures, Bar/Restaurant Limits: ",1.0,IOWA
-128,3/12,Emergency Declaration: ,0.0,KANSAS
-129,3/17,School Closures: ,0.0,KANSAS
-130,"3/17, 3/24","Large Gatherings, Bar/Restaurant Limits: ",0.0,KANSAS
-131,3/25,Section 1135 Waiver: ,0.0,KANSAS
-132,"3/23, 3/28, 4/16","Stay At Home Order, Mandatory Quarantine for Travelers, Non-Essential Business Closures: ",0.0,KANSAS
-133,4/30,"Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",1.0,KANSAS
-134,3/6,Emergency Declaration: ,0.0,KENTUCKY
-135,3/9,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,KENTUCKY
-136,"3/16, 4/20",School Closures: ,0.0,KENTUCKY
-137,3/16,Bar/Restaurant Limits: ,0.0,KENTUCKY
-138,3/16,Primary Election Postponement: ,0.0,KENTUCKY
-139,3/19,Large Gatherings Ban: ,0.0,KENTUCKY
-140,"3/23, 4/8",Non-Essential Business Closure: ,0.0,KENTUCKY
-141,3/25,Section 1135 Waiver: ,0.0,KENTUCKY
-142,3/30,Mandatory Quarantine for Travelers: ,0.0,KENTUCKY
-143,5/6,Mandatory Quarantine for Travelers: ,1.0,KENTUCKY
-144,4/30,Non-Essential Business Closures: ,1.0,KENTUCKY
-145,3/11,Public Health Emergency: ,0.0,LOUISIANA
-146,"3/13, 4/15",School Closures: ,0.0,LOUISIANA
-147,"3/13, 4/14",Primary Election Postponement: ,0.0,LOUISIANA
-148,3/16,Bar/Restaurant Limits: ,0.0,LOUISIANA
-149,3/17,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,LOUISIANA
-150,"3/22, 4/27","Large Gatherings Ban, Stay At Home Order, Non-Essential Business Closures: ",0.0,LOUISIANA
-151,3/23,Section 1135 Waiver: ,0.0,LOUISIANA
-152,3/26,Premium Grace Period: ,0.0,LOUISIANA
-153,3/12,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,MAINE
-154,"3/15, 4/14",Proclamation of Civil Emergency: ,0.0,MAINE
-155,"3/18, 3/31","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,MAINE
-156,"3/24, 3/31",Non-Essential Business Closure: ,0.0,MAINE
-157,"3/31, 4/7, 4/29","Stay At Home Order, School Closures: ",0.0,MAINE
-158,4/7,Section 1135 Waiver: ,0.0,MAINE
-159,4/10,Primary Election Postponement: ,0.0,MAINE
-160,4/30,Non-Essential Business Closures: ,1.0,MAINE
-161,3/5,Emergency Declaration; Catastrophic Health Emergency: ,0.0,MARYLAND
-162,"3/6, 3/10","Free Vaccine, Early Rx Refill: ",0.0,MARYLAND
-163,3/13,Marketplace SEP: ,0.0,MARYLAND
-164,3/16,Large Gatherings: ,0.0,MARYLAND
-165,"3/16, 4/17, 5/6",School Closures: ,0.0,MARYLAND
-166,3/16,Bar/Restaurant Limits: ,0.0,MARYLAND
-167,3/17,Primary Election Postponement: ,0.0,MARYLAND
-168,3/23,Non-Essential Business Closure: ,0.0,MARYLAND
-169,3/26,Section 1135 Waiver: ,0.0,MARYLAND
-170,3/30,Stay At Home Order,0.0,MARYLAND
-171,"3/6, 3/30, 4/9","Cost-Sharing Waiver (Treatment), Free Vaccine, Waive Prior Auth: ",0.0,MASSACHUSETTS
-172,3/10,Emergency Declaration: ,0.0,MASSACHUSETTS
-173,"3/11, 3/30",Marketplace SEP: ,0.0,MASSACHUSETTS
-174,3/15,Bar/Restaurant Limits: ,0.0,MASSACHUSETTS
-175,"3/15, 4/21",School Closures: ,0.0,MASSACHUSETTS
-176,"3/23,","Non-Essential Business Closures, Large Gatherings: ",0.0,MASSACHUSETTS
-177,3/26,Early Rx Refill: ,0.0,MASSACHUSETTS
-178,3/26,Section 1135 Waiver: ,0.0,MASSACHUSETTS
-179,3/27,Mandatory Quarantine for Travelers: ,0.0,MASSACHUSETTS
-180,3/31,"Extension of Non-Essential Business Closures, Large Gatherings: ",0.0,MASSACHUSETTS
-181,4/28:,"Extension of Non-Essential Business CLosures, Large Gatherings: ",0.0,MASSACHUSETTS
-182,3/10,Emergency Declaration:,0.0,MICHIGAN
-183,3/16,School Closures: ,0.0,MICHIGAN
-184,3/17,Bar/Restaurant Limits,0.0,MICHIGAN
-185,3/23,"Stay At Home Order, Non-Essential Business Closure, Large Gatherings: ",0.0,MICHIGAN
-186,4/2,Extension of School Closures: ,0.0,MICHIGAN
-187,4/6,Section 1135 Waiver: ,0.0,MICHIGAN
-188,4/9,"Extension of Stay at Home Order, Non-Essential Business Closure, and Large Gatherings Ban: ",0.0,MICHIGAN
-189,4/10,Cost-Sharing Waiver (Treatment): ,0.0,MICHIGAN
-190,4/14:,Extension of Non-Essential Business Closure and Bar/Restaurant Limits: ,0.0,MICHIGAN
-191,4/21,Early Rx Refill,0.0,MICHIGAN
-192,4/24,Extension of Stay at Home Order: ,0.0,MICHIGAN
-193,4/30,"Extension of Non-Essential Business Closures, Bar/Restaurant Limits: ",0.0,MICHIGAN
-194,5/7,"Extension of Stay at Home Order, Large Gatherings Ban: ",0.0,MICHIGAN
-195,4/24,Non-Essential Business Closures (announced 4/24): ,1.0,MICHIGAN
-196,5/7,Non-Essential Business Closures (announced 5/1): ,1.0,MICHIGAN
-197,5/11,Non-Essential Business Closures (announced 5/7): ,1.0,MICHIGAN
-198,3/13,Peacetime Emergency,0.0,MINNESOTA
-199,3/15,School Closures: ,0.0,MINNESOTA
-200,3/16,Bar/Restaurant Limits: ,0.0,MINNESOTA
-201,3/25,Stay At Home Order: ,0.0,MINNESOTA
-202,3/25,Extension of School Closures: ,0.0,MINNESOTA
-203,3/27,Section 1135 Waiver: ,0.0,MINNESOTA
-204,4/2,Cost-Sharing Waiver (Treatment): ,0.0,MINNESOTA
-205,4/8,"Extension of Stay At Home Order, Bar/Restaurant Limits: ",0.0,MINNESOTA
-206,4/24,Extension of School Closures: ,0.0,MINNESOTA
-207,4/30,"Extension of Stay at Home Order, Bar/Restaurant Limits: ",0.0,MINNESOTA
-208,5/13,Extension of Bar/Restaurant Limits: ,0.0,MINNESOTA
-209,4/27,Non-Essential Business Closures (announced 4/23): ,1.0,MINNESOTA
-210,3/14,Emergency Declaration:,0.0,MISSISSIPPI
-211,3/19,School Closures: ,0.0,MISSISSIPPI
-212,3/20,Primary Election Postponement: ,0.0,MISSISSIPPI
-213,3/23,Section 1135 Waiver: ,0.0,MISSISSIPPI
-214,3/24,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,MISSISSIPPI
-215,3/25,Premium Grace Period: ,0.0,MISSISSIPPI
-216,3/31,Stay at Home Order: ,0.0,MISSISSIPPI
-217,4/15,Extension of School Closures: ,0.0,MISSISSIPPI
-218,4/17,Extension of Stay at Home Order: ,0.0,MISSISSIPPI
-219,4/27:,Extension of Large Gatherings Ban: ,0.0,MISSISSIPPI
-220,5/8,Extension of Large Gatherings Ban: ,0.0,MISSISSIPPI
-221,4/27,"Stay at Home Order, Non-Essential Business Closures (announced 4/17): ",1.0,MISSISSIPPI
-222,5/7:,Bar/Restaurant Limits (announced 5/4): ,1.0,MISSISSIPPI
-223,5/8:,Non-Essential Business Closures (announced 5/8): ,1.0,MISSISSIPPI
-224,3/13,Emergency Declaration: ,0.0,MISSOURI
-225,3/21,School Closures: ,0.0,MISSOURI
-226,"3/21, 4/3","Large Gatherings, Bar/Restaurant Limits: ",0.0,MISSOURI
-227,3/25,Section 1135 Waiver: ,0.0,MISSOURI
-228,4/3,"Stay At Home Order, Non-Essential Business Closures: ",0.0,MISSOURI
-229,4/9,Extension of School Closures: ,0.0,MISSOURI
-230,4/16,Extension of Stay at Home Order: ,0.0,MISSOURI
-231,5/4,"Non-essential Business Closures, Bar/Restaurant Limits (announced 4/27): ",1.0,MISSOURI
-232,3/12,Emergency Declaration: ,0.0,MONTANA
-233,3/15,School Closures: ,0.0,MONTANA
-234,3/20,Bar/Restaurant Limits: ,0.0,MONTANA
-235,3/24,"Large Gatherings Ban, School Closure Extension: ",0.0,MONTANA
-236,3/26,"Stay at Home Order, Non-Essential Business Closure, Large Gatherings Ban: ",0.0,MONTANA
-237,3/30,Section 1135 Waiver: ,0.0,MONTANA
-238,3/31,Mandatory Traveler Quarantine: ,0.0,MONTANA
-239,4/7,"Extension of School Closures, Bar/Restaurant Limits, Stay at Home Order, Non-Essential Business Closure, Large Gatherings Ban, and Mandatory Traveler Quarantine: ",0.0,MONTANA
-240,4/26,"Stay-at-Home Order, Non-Essential Business Closures (announced 4/22): ",1.0,MONTANA
-241,5/4,Bar/Restaurant Limits (announced 4/22) ,1.0,MONTANA
-242,5/7,School Closures (announced 4/22): ,1.0,MONTANA
-243,3/13,Emergency Declaration: ,0.0,NEBRASKA
-244,"3/19, 3/25","Large Gatherings Ban, School Closures: ",0.0,NEBRASKA
-245,3/30,Bar/Restaurant Limits: ,0.0,NEBRASKA
-246,4/1,School Closures: ,0.0,NEBRASKA
-247,4/2,Section 1135 Waiver: ,0.0,NEBRASKA
-248,4/3,"Large Gatherings Ban, School Closures, Bar/Restaurant Limits: ",0.0,NEBRASKA
-249,5/4,Bar/Restaurant Limits (announced 4/24): ,1.0,NEBRASKA
-250,5/11,Bar/Restaurant Limits (announced 4/24): ,1.0,NEBRASKA
-251,3/5,Free Vaccine: ,0.0,NEVADA
-252,3/13,Emergency Declaration: ,0.0,NEVADA
-253,3/15,"Large Gatherings Ban, School Closures: ",0.0,NEVADA
-254,3/17,Bar/Restaurant Limits: ,0.0,NEVADA
-255,3/17,Marketplace SEP:  ,0.0,NEVADA
-256,3/19,Large Gatherings Ban: ,0.0,NEVADA
-257,3/20,Non-Essential Business Closures: ,0.0,NEVADA
-258,3/24,Large Gatherings Ban: ,0.0,NEVADA
-259,4/1,"Stay at Home Order, Non-Essential Business Closures: ",0.0,NEVADA
-260,4/7,Section 1135 Waiver: ,0.0,NEVADA
-261,4/14,Extension of School Closures: ,0.0,NEVADA
-262,4/21,Extension of School Closures: ,0.0,NEVADA
-263,4/29,"Extension of Stay at Home Order, Large Gatherings Ban: ",0.0,NEVADA
-264,5/9,"Non-Essential Business Closures, Bar/Restaurant Limits: ",1.0,NEVADA
-265,3/10,"Waive Prior Auth, Early Rx Refill:",0.0,NEW HAMPSHIRE
-266,3/13,Emergency Declaration: ,0.0,NEW HAMPSHIRE
-267,3/15,School Closures: ,0.0,NEW HAMPSHIRE
-268,3/16,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,NEW HAMPSHIRE
-269,3/23,Section 1135 Waiver: ,0.0,NEW HAMPSHIRE
-270,3/24,Large Gatherings Ban: ,0.0,NEW HAMPSHIRE
-271,3/26,"Stay at Home Order, Non-Essential Business Closures: ",0.0,NEW HAMPSHIRE
-272,3/27,School Closures: ,0.0,NEW HAMPSHIRE
-273,4/4,"Extension of Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,NEW HAMPSHIRE
-274,4/16,Extension of School Closures: ,0.0,NEW HAMPSHIRE
-275,5/1,"Extension of Stay at Home Orde, Large Gatherings Banr: ",0.0,NEW HAMPSHIRE
-276,5/11,Non-Essential Business Closures (announced 5/1): ,1.0,NEW HAMPSHIRE
-277,3/9,"Emergency Declaration, Public Health Emergency: ",0.0,NEW JERSEY
-278,3/16,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,NEW JERSEY
-279,3/16,School Closures: ,0.0,NEW JERSEY
-280,3/21,"Stay At Home Order, Non-Essential Retail Business Closures, Large Gatherings Ban: ",0.0,NEW JERSEY
-281,3/23,Section 1135 Waiver: ,0.0,NEW JERSEY
-282,4/8,Primary Election Postponement: ,0.0,NEW JERSEY
-283,4/9,Premium Grace Period: ,0.0,NEW JERSEY
-284,4/16,Extension of School Closures:,0.0,NEW JERSEY
-285,5/2,Extension of School Closures: ,0.0,NEW JERSEY
-286,5/13,Large Gatherings Ban: ,1.0,NEW JERSEY
-287,3/11,"Public Health Emergency, Cost-Sharing Waiver (Treatment): ",0.0,NEW MEXICO
-288,3/13,Cost-Sharing Waiver (Treatment): ,0.0,NEW MEXICO
-289,"3/13, 3/26",School Closures: ,0.0,NEW MEXICO
-290,"3/15, 4/6",Bar/Restaurant Limits: ,0.0,NEW MEXICO
-291,3/16,Large Gatherings Ban: ,0.0,NEW MEXICO
-292,3/23,Non-Essential Retail Business Closures: ,0.0,NEW MEXICO
-293,3/23,Section 1135 Waiver: ,0.0,NEW MEXICO
-294,3/23,Stay at Home Order: ,0.0,NEW MEXICO
-295,3/27,Mandatory Quarantine for Travelers: ,0.0,NEW MEXICO
-296,"4/6, 4/11, 5/1",Extension of All Orders Relating to COVID-19: ,0.0,NEW MEXICO
-297,"3/3, 3/13",Free Vaccine: ,0.0,NEW YORK
-298,3/7,Emergency Declaration: ,0.0,NEW YORK
-299,3/14,Bar/Restaurant Limits: ,0.0,NEW YORK
-300,"3/16, 5/4",Marketplace SEP: ,0.0,NEW YORK
-301,"3/16, 3/27, 5/1, 5/7",School Closures: ,0.0,NEW YORK
-302,3/17,Paid Sick Leave: ,0.0,NEW YORK
-303,"3/20, 3/27, 4/16","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,NEW YORK
-304,3/26,Section 1135 Waiver: ,0.0,NEW YORK
-305,3/28,Primary Election Postponement: ,0.0,NEW YORK
-306,4/2,Premium Grace Period: ,0.0,NEW YORK
-307,"4/7, 4/16, 5/5",Extension of All Orders Relating to COVID-19: ,0.0,NEW YORK
-308,3/10,Emergency Declaration:,0.0,NORTH CAROLINA
-309,"3/14, 3/23, 3/27","Large Gatherings Ban, School Closures: ",0.0,NORTH CAROLINA
-310,3/14,Bar/Restaurant Limits: ,0.0,NORTH CAROLINA
-311,3/23,Section 1135 Waiver: ,0.0,NORTH CAROLINA
-312,"3/27, 4/23","Stay At Home Order, Non-Essential Business Closures: ",0.0,NORTH CAROLINA
-313,3/27,Premium Grace Period: ,0.0,NORTH CAROLINA
-314,5/5,"Extension of COVID-19 related orders, except for Non-Essential Business Closures: ",0.0,NORTH CAROLINA
-315,5/8,Non-Essential Business Closures (announced 5/5): ,1.0,NORTH CAROLINA
-316,3/13,Emergency Declaration:,0.0,NORTH DAKOTA
-317,"3/15, 3/30",School Closures: ,0.0,NORTH DAKOTA
-318,3/24,Section 1135 Waiver: ,0.0,NORTH DAKOTA
-319,"3/28, 4/8",Mandatory Quarantine for Travelers: ,0.0,NORTH DAKOTA
-320,"4/2, 4/15",Non-Essential Business Closures: ,0.0,NORTH DAKOTA
-321,5/1,Non-Essential Business Closures and Restaurant Limits (announced 4/29): ,1.0,NORTH DAKOTA
-322,3/9,Emergency Declaration: ,0.0,OHIO
-323,"3/12, 3/30, 4/20",School Closures: ,0.0,OHIO
-324,"3/15, 4/2",Bar/Restaurant Limits: ,0.0,OHIO
-325,3/16,Primary Election Postponement: ,0.0,OHIO
-326,3/20,Premium Grace Period: ,0.0,OHIO
-327,3/22,Mandatory Quarantine for Travelers: ,0.0,OHIO
-328,"3/22, 4/2","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,OHIO
-329,4/22,Section 1135 Waiver: ,0.0,OHIO
-330,5/1,Non-Essential Business Closures (announced 4/30): ,1.0,OHIO
-331,"3/15, 4/2, 5/1",Emergency Declaration:,0.0,OKLAHOMA
-332,"3/16, 3/25",School Closures: ,0.0,OKLAHOMA
-333,"3/24, 4/1","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,OKLAHOMA
-334,3/24,Section 1135 Waiver: ,0.0,OKLAHOMA
-335,3/29,Mandatory Quarantine for Travelers: ,0.0,OKLAHOMA
-336,4/6,"Waive Prior Auth, Early Rx Refill, Premium Grace Period: ",0.0,OKLAHOMA
-337,"4/8, 4/16",Extension of All COVID-19 Related Orders: ,0.0,OKLAHOMA
-338,4/24,"Non-Essential Business Closures, 5/1 Non-Essential Business Closures and Restaurant Limits (announced 4/22): ",1.0,OKLAHOMA
-339,3/5,Free Vaccine: ,0.0,OREGON
-340,"3/8, 5/1","Emergency Declaration, Disaster Declaration: ",0.0,OREGON
-341,3/16,Bar/Restaurant Limits: ,0.0,OREGON
-342,"3/17, 4/8, 4/23",School Closures: ,0.0,OREGON
-343,3/23,"Stay At Home Order, Non-Essential Business Closure, Large Gatherings: ",0.0,OREGON
-344,3/25,Section 1135 Waiver: ,0.0,OREGON
-345,"3/25, 4/24, 5/6",Premium Grace Period: ,0.0,OREGON
-346,3/6,Disaster Proclamation: ,0.0,PENNSYLVANIA
-347,3/10,Waive Prior Auth: ,0.0,PENNSYLVANIA
-348,"3/13, 4/9",School Closures: ,0.0,PENNSYLVANIA
-349,3/16,Bar/Restaurant Limits: ,0.0,PENNSYLVANIA
-350,3/19,Non-Essential Business Closures: ,0.0,PENNSYLVANIA
-351,"3/23, 3/24, 3/25, 3/27, 3/28, 3/30, 3/31, 4/1, 5/7","Stay At Home Order, Large Gatherings Ban: ",0.0,PENNSYLVANIA
-352,3/27,Section 1135 Waiver: ,0.0,PENNSYLVANIA
-353,"3/9, 4/8",Emergency Declaration: ,0.0,RHODE ISLAND
-354,3/13,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,RHODE ISLAND
-355,"3/16, 3/28, 4/10","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,RHODE ISLAND
-356,"3/18, 3/30",School Closures: ,0.0,RHODE ISLAND
-357,3/23,Primary Election Postponement: ,0.0,RHODE ISLAND
-358,3/25,Section 1135 Waiver: ,0.0,RHODE ISLAND
-359,"3/13, 3/26, 3/28, 4/10",Stay At Home Order: ,0.0,RHODE ISLAND
-360,3/28,Mandatory Quarantine for Travelers: ,0.0,RHODE ISLAND
-361,4/27:,Waive Prior Auth: ,0.0,RHODE ISLAND
-362,5/7,Extension of COVID-19 Related Orders: ,0.0,RHODE ISLAND
-363,3/13,Emergency Declaration: ,0.0,SOUTH CAROLINA
-364,"3/15, 3/24, 4/12, 4/22",School Closures: ,0.0,SOUTH CAROLINA
-365,"3/17, 4/6","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,SOUTH CAROLINA
-366,3/27,Mandatory Quarantine for Travelers: ,0.0,SOUTH CAROLINA
-367,3/31,Section 1135 Waiver: ,0.0,SOUTH CAROLINA
-368,"3/31, 4/6",Non-Essential Business Closures: ,0.0,SOUTH CAROLINA
-369,4/6,Stay At Home Order: ,0.0,SOUTH CAROLINA
-370,4/20,Non-Essential Business Closures (announced 4/20):,1.0,SOUTH CAROLINA
-371,5/4,"Stay-At-Home Order, Mandatory Quarantine for Travelers, Restaurant Limits (announced 5/1): ",1.0,SOUTH CAROLINA
-372,5/11,Restaurant Limits (announced 5/8): ,1.0,SOUTH CAROLINA
-373,3/13,Emergency Declaration: ,0.0,SOUTH DAKOTA
-374,"3/13, 3/24, 4/6",School Closures: ,0.0,SOUTH DAKOTA
-375,"3/23, 4/6",Large Gatherings Ban:,0.0,SOUTH DAKOTA
-376,3/24,Section 1135 Waiver: ,0.0,SOUTH DAKOTA
-377,4/28,Large Gathering Ban (announced 4/28),1.0,SOUTH DAKOTA
-378,"3/12, 5/6",Emergency Declaration:,0.0,TENNESSEE
-379,"3/16, 3/24, 4/15 ",School Closures: ,0.0,TENNESSEE
-380,"3/22, 4/13","Large Gatherings Ban, Bar/Restaurant Limits:",0.0,TENNESSEE
-381,3/31,Section 1135 Waiver: ,0.0,TENNESSEE
-382,"3/13, 4/12, 5/12",Emergency Declaration: ,0.0,TEXAS
-383,"3/19, 3/31","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,TEXAS
-384,3/30,Section 1135 Waiver: ,0.0,TEXAS
-385,3/31,Stay At Home Order:,0.0,TEXAS
-386,5/1,Bar/Restaurant Limits (announced 4/27),1.0,TEXAS
-387,3/6,Emergency Declaration:,0.0,UTAH
-388,"3/13, 3/24, 4/14",School Closures: ,0.0,UTAH
-389,"3/18, 4/1",Large Gatherings Ban:,0.0,UTAH
-390,"3/18, 4/1, 4/14",Bar/Restaurant Limits: ,0.0,UTAH
-391,3/27,Stay At Home Order ,0.0,UTAH
-392,4/10,Mandatory Quarantine for Travelers:,0.0,UTAH
-393,4/10,Section 1135 Waiver: ,0.0,UTAH
-394,5/1,"Mandatory Quarantine for Travelers, ",1.0,UTAH
-395,"3/13, 4/10",Emergency Declaration: ,0.0,VERMONT
-396,"3/15, 3/26",School Closures: ,0.0,VERMONT
-397,3/16,Bar/Restaurant Limits: ,0.0,VERMONT
-398,3/20,Marketplace SEP: ,0.0,VERMONT
-399,3/30,Mandatory Quarantine for Travelers: ,0.0,VERMONT
-400,3/30,Section 1135 Waiver: ,0.0,VERMONT
-401,4/20,Non-Essential Business Closures(announced 4/17),1.0,VERMONT
-402,3/12,Emergency Declaration: ,0.0,VIRGINIA
-403,"3/13, 3/23, 3/30",School Closures; ,0.0,VIRGINIA
-404,"3/23, 4/15","Non-Essential Business Closures, Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,VIRGINIA
-405,3/23,Section 1135 Waiver: ,0.0,VIRGINIA
-406,3/30,Stay At Home Order: ,0.0,VIRGINIA
-407,4/13,Primary Election Postponement (local): ,0.0,VIRGINIA
-408,2/29,Emergency Declaration: ,0.0,WASHINGTON
-409,"3/5, 5/1","Early Rx Refill, Waive Prior Auth: ",0.0,WASHINGTON
-410,"3/10, 4/1",Marketplace SEP: ,0.0,WASHINGTON
-411,3/15,Section 1135 Waiver:  ,0.0,WASHINGTON
-412,"3/13, 4/6",School Closures: ,0.0,WASHINGTON
-413,"3/16, 3/23",Large Gatherings Ban: ,0.0,WASHINGTON
-414,3/15,Bar/Restaurant Limits: ,0.0,WASHINGTON
-415,"3/23,4/2, 5/4",Stay At Home Order/Non-Essential Business Closures:,0.0,WASHINGTON
-416,3/24,Premium Grace Period: ,0.0,WASHINGTON
-417,5/11,Bar/Restaurant Limits,1.0,WASHINGTON
-418,3/4,Preparedness Proclamation,0.0,WEST VIRGINIA
-419,3/13,Early Rx Refill:,0.0,WEST VIRGINIA
-420,"3/13, 3/25, 4/21",School Closures: ,0.0,WEST VIRGINIA
-421,"3/17, 3/23",Bar/Restaurant Limits: ,0.0,WEST VIRGINIA
-422,"3/18, 3/26",Premium Grace Period: ,0.0,WEST VIRGINIA
-423,3/23,Stay At Home Order/Non-Essential Business Closures: ,0.0,WEST VIRGINIA
-424,3/30,Mandatory Quarantine for Travelers: ,0.0,WEST VIRGINIA
-425,3/30,Section 1135 Waiver: ,0.0,WEST VIRGINIA
-426,4/1,Primary Election Postponement: ,0.0,WEST VIRGINIA
-427,4/4,Large Gatherings Ban: ,0.0,WEST VIRGINIA
-428,"5/4,5/11",Non-Essential Business Closures(announced 5/4),1.0,WEST VIRGINIA
-429,3/12,Public Health Emergency: ,0.0,WISCONSIN
-430,"3/16, 3/17, 3/20, 3/24, 4/6, 4/16",Large Gatherings Ban/Bar/Restaurant Limits: ,0.0,WISCONSIN
-431,"3/18, 3/20, 4/16",School Closures: ,0.0,WISCONSIN
-432,"3/24, 4/16",Stay At Home Order/Non-Essential Business Closures: ,0.0,WISCONSIN
-433,4/20,Section 1135 Waiver: ,0.0,WISCONSIN
-434,"4/24, 5/11",Non-Essential Business Closures(announced 4/16),1.0,WISCONSIN
-435,5/13,Stay At Home Order(announced 5/13),1.0,WISCONSIN
-436,3/13,"Emergency Declaration, Public Health Emergency: ",0.0,WYOMING
-437,"3/19, 3/27, 4/3, 4/28","School Closures, Bar/Restaurant Limits: ",0.0,WYOMING
-438,"3/20, 3/27, 4/3, 4/28",Large Gatherings Ban: ,0.0,WYOMING
-439,3/27,Section 1135 Waiver: ,0.0,WYOMING
-440,"4/3, 4/29",Mandatory Quarantine for Travelers:,0.0,WYOMING
+25,5/16,"Stay At Home Order, Mandatory Quarantine for Travelers, Non-Essential Business Closures, Large Gatherings Ban (announced 5/12): ",1.0,ARIZONA
+26,"3/11, 5/5",Public Health Emergency: ,0.0,ARKANSAS
+27,"3/15, 3/20, 4/4","School Closure, Bar/Restaurant Limits: ",0.0,ARKANSAS
+28,"3/20, 3/27, 5/11",Premium Grace Period: ,0.0,ARKANSAS
+29,"3/26, 4/4",Large Gatherings Ban: ,0.0,ARKANSAS
+30,4/2,Section 1135 Waiver: ,0.0,ARKANSAS
+31,5/14,Mandatory Quarantine for Travelers: ,0.0,ARKANSAS
+32,5/11,Bar/Restaurant Limits (announced 4/29):,1.0,ARKANSAS
+33,3/11,Emergency Declaration: ,0.0,CALIFORNIA
+34,3/20,Marketplace SEP: ,0.0,CALIFORNIA
+35,3/12,Executive Order mandating compliance with state guidance: ,0.0,CALIFORNIA
+36,3/16,Large Gatherings Ban: ,0.0,CALIFORNIA
+37,3/16,Bar/Restaurant ,0.0,CALIFORNIA
+38,3/18,Early Rx refill: ,0.0,CALIFORNIA
+39,3/19,"Stay At Home Order, Non-Essential Business Closures: ",0.0,CALIFORNIA
+40,3/23,Section 1135 Waiver: ,0.0,CALIFORNIA
+41,4/1,School Closures: ,0.0,CALIFORNIA
+42,5/8,Non-Essential Business Closure (announced 5/4): ,1.0,CALIFORNIA
+43,3/9,Early Rx Refill: ,0.0,COLORADO
+44,"3/10, 4/8",Emergency Declaration: ,0.0,COLORADO
+45,7,"CCR 1103-10 (2020), Colorado Health Emergency Leave with Pay (“Colorado HELP”) Rules.",0.0,COLORADO
+46,"3/16, 3/19",Bar/Restaurant Limits: ,0.0,COLORADO
+47,"3/18, 4/1, 4/20",School Closures: ,0.0,COLORADO
+48,3/19,Marketplace SEP: ,0.0,COLORADO
+49,3/26,Section 1135 Waiver: ,0.0,COLORADO
+50,"3/26, 4/6, 4/26","Stay At Home Order, Non-Essential Business Closure, Large Gatherings Ban: ",0.0,COLORADO
+51,4/27,"Stay at Home Order, Non-Essential Business Closure, Large Gatherings Ban (announced 4/26): ",1.0,COLORADO
+52,3/10,Civil Preparedness Emergency / Public Health Emergency: ,0.0,CONNECTICUT
+53,"3/11, 3/15, 3/23, 4/10, 5/5",School Closures: ,0.0,CONNECTICUT
+54,"3/16, 3/26",Bar/Restaurant ,0.0,CONNECTICUT
+55,3/17,Marketplace SEP:,0.0,CONNECTICUT
+56,"3/19, 4/17",Primary Election Postponement: ,0.0,CONNECTICUT
+57,3/20,Non-Essential Business Closures: ,0.0,CONNECTICUT
+58,3/27,Section 1135 Waiver: ,0.0,CONNECTICUT
+59,4/1,Premium Grace Period: ,0.0,CONNECTICUT
+60,4/10,"Extension of Bar/Restaurant Limits, Large Gatherings Ban, Non-Essential Business Closures: ",0.0,CONNECTICUT
+61,5/18,Extension of Large Gatherings Ban: ,0.0,CONNECTICUT
+62,5/20,"Stay At Home Order, Non-Essential Business Closures, Restaurant Limits (announced 5/18): ",1.0,CONNECTICUT
+63,3/9,Early Rx Refill: ,0.0,DELAWARE
+64,"3/12, 3/23, 4/10, 5/8",Emergency Declarations: ,0.0,DELAWARE
+65,"3/13, 3/23, 4/24",School Closures: ,0.0,DELAWARE
+66,"3/16, 3/18, 4/1","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,DELAWARE
+67,3/22,Stay At Home Order: ,0.0,DELAWARE
+68,"3/22, 4/6",Non-Essential Business Closures: ,0.0,DELAWARE
+69,3/23,Waive Prior Auth: ,0.0,DELAWARE
+70,"3/24, 5/7",Primary Election Postponement: ,0.0,DELAWARE
+71,3/27,Section 1135 Waiver: ,0.0,DELAWARE
+72,3/29,Mandatory Quarantine for Travelers: ,0.0,DELAWARE
+73,4/1,Premium Grace Period: ,0.0,DELAWARE
+74,5/8,Non-Essential Business Closure (announced 5/7): ,1.0,DELAWARE
+75,3/11,Emergency Declaration / Public Health Emergency: ,0.0,DISTRICT OF COLUMBIA
+76,3/12:,"Cost-Sharing Waiver (Treatment), Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,DISTRICT OF COLUMBIA
+77,"3/20, 4/17",School Closures: ,0.0,DISTRICT OF COLUMBIA
+78,3/20,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,DISTRICT OF COLUMBIA
+79,3/24,"Non-Essential Business Closures, Large Gatherings Ban: ",0.0,DISTRICT OF COLUMBIA
+80,3/30,Stay At Home Order: ,0.0,DISTRICT OF COLUMBIA
+81,4/3,Section 1135 Waiver: ,0.0,DISTRICT OF COLUMBIA
+82,"4/15, 5/13","Extensions of Emergency Declarations, Bar/Restaurant Limits, Non-Essential Business Closures, Large Gatherings Ban, Stay At Home Order: ",0.0,DISTRICT OF COLUMBIA
+83,3/1,Public Health Emergency: ,0.0,FLORIDA
+84,"3/9, 5/8",Emergency Declaration: ,0.0,FLORIDA
+85,3/10,Early Rx Refill: ,0.0,FLORIDA
+86,3/16,Section 1135 Waiver: ,0.0,FLORIDA
+87,"3/17, 4/18",School Closures: ,0.0,FLORIDA
+88,"3/17, 3/20",Bar/Restaurant Limits: ,0.0,FLORIDA
+89,"3/24, 3/27, 4/29",Mandatory Quarantine for Travelers: ,0.0,FLORIDA
+90,"4/1, 4/29","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,FLORIDA
+91,"5/4, 5/11","Stay at Home Order, Non-Essential Business Closures, Bar/Restaurant Limits (announced 4/29, 5/9): ",1.0,FLORIDA
+92,3/14,Public Health Emergency: ,0.0,GEORGIA
+93,3/14,Primary Election Postponement: ,0.0,GEORGIA
+94,"3/16, 3/26, 4/1",School Closures: ,0.0,GEORGIA
+95,3/20,Early Rx Refill: ,0.0,GEORGIA
+96,3/20,Premium Grace Period: ,0.0,GEORGIA
+97,"3/23, 4/2, 4/8","Stay At Home Order, Bar/Restaurant Limits, Large Gatherings Ban: [03.23.20.01, 04.02.20.01, 04.08.20.02, 04.23.20.02, 04.30.20.01, 05.12.20.02] ",0.0,GEORGIA
+98,4/1,Section 1135 Waiver: ,0.0,GEORGIA
+99,4/24,"Non-Essential Business Closures, 4/27 Bar/Restaurant Limits, 5/1 Stay at Home Order (announced 4/20, 4/23, 4/30): ",1.0,GEORGIA
+100,3/4,Emergency Declaration: ,0.0,HAWAII
+101,3/15,School Closures: ,0.0,HAWAII
+102,"3/17, 3/21, 3/23,4/16, 4/25 5/18","Stay At Home Order, Mandatory Quarantine for Travelers, Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,HAWAII
+103,3/26,Section 1135 Waiver: ,0.0,HAWAII
+104,4/23,Non-Essential Business Closures: ,1.0,HAWAII
+105,"3/13, 4/22",Emergency Declaration: ,0.0,IDAHO
+106,"3/19, 3/25, 4/15",Stay At Home Order: ,0.0,IDAHO
+107,3/25,School Closure: ,0.0,IDAHO
+108,"3/25, 4/15","Large Gatherings, Non-Essential Business Closure, Bar/Restaurant Limits: ",0.0,IDAHO
+109,3/26,Section 1135 Waiver: ,0.0,IDAHO
+110,4/10,Cost-Sharing Waiver (Treatment): ,0.0,IDAHO
+111,4/15,Mandatory Quarantine for Travelers: ,0.0,IDAHO
+112,4/23,"Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",1.0,IDAHO
+113,5/16,Restaurant Limits: ,1.0,IDAHO
+114,3/9,Disaster Proclamation:,0.0,ILLINOIS
+115,"3/13, 4/1, 4/23",School Closures: ,0.0,ILLINOIS
+116,"3/20, 4/30","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban, Bar/Restaurant ",0.0,ILLINOIS
+117,3/23,Section 1135 Waiver: ,0.0,ILLINOIS
+118,4/20,Premium Grace Period: ,0.0,ILLINOIS
+119,3/6,Public Health Emergency: ,0.0,INDIANA
+120,3/16,Bar/Restaurant Limits: ,0.0,INDIANA
+121,3/19,School Closures: ,0.0,INDIANA
+122,3/20,Primary Election Postponement: ,0.0,INDIANA
+123,"3/23, 3/31, 4/20","Stay At Home Order, Non-Essential Business Closure, Large Gatherings: ",0.0,INDIANA
+124,3/25,Section 1135 Waiver: ,0.0,INDIANA
+125,5/1,"Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",1.0,INDIANA
+126,5/11,Restaurant Limits: ,1.0,INDIANA
+127,3/9,Proclamation of Disaster Emergency: ,0.0,IOWA
+128,"3/15, 4/2, 41/6, 4/27",School Closures: ,0.0,IOWA
+129,"3/17, 4/16, 4/27","Large Gatherings, Bar/Restaurant Limits: ",0.0,IOWA
+130,3/25,Section 1135 Waiver: ,0.0,IOWA
+131,"3/26, 4/6",Non-Essential Business Closure: ,0.0,IOWA
+132,"4/27, 5/6","Non-Essential Business Closures, Bar/Restaurant Limits: ",1.0,IOWA
+133,3/12,Emergency Declaration: ,0.0,KANSAS
+134,3/17,School Closures: ,0.0,KANSAS
+135,"3/17, 3/24","Large Gatherings, Bar/Restaurant Limits: ",0.0,KANSAS
+136,3/25,Section 1135 Waiver: ,0.0,KANSAS
+137,"3/23, 3/28, 4/16","Stay At Home Order, Mandatory Quarantine for Travelers, Non-Essential Business Closures: ",0.0,KANSAS
+138,4/30,"Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",1.0,KANSAS
+139,3/6,Emergency Declaration: ,0.0,KENTUCKY
+140,3/9,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,KENTUCKY
+141,"3/16, 4/20",School Closures: ,0.0,KENTUCKY
+142,3/16,Bar/Restaurant Limits: ,0.0,KENTUCKY
+143,3/16,Primary Election Postponement: ,0.0,KENTUCKY
+144,3/19,Large Gatherings Ban: ,0.0,KENTUCKY
+145,"3/23, 4/8",Non-Essential Business Closure: ,0.0,KENTUCKY
+146,3/25,Section 1135 Waiver: ,0.0,KENTUCKY
+147,3/30,Mandatory Quarantine for Travelers: ,0.0,KENTUCKY
+148,5/6,Mandatory Quarantine for Travelers: ,1.0,KENTUCKY
+149,4/30,Non-Essential Business Closures: ,1.0,KENTUCKY
+150,3/11,Public Health Emergency: ,0.0,LOUISIANA
+151,"3/13, 4/15",School Closures: ,0.0,LOUISIANA
+152,"3/13, 4/14",Primary Election Postponement: ,0.0,LOUISIANA
+153,3/16,Bar/Restaurant Limits: ,0.0,LOUISIANA
+154,3/17,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,LOUISIANA
+155,"3/22, 4/27","Large Gatherings Ban, Stay At Home Order, Non-Essential Business Closures: ",0.0,LOUISIANA
+156,3/23,Section 1135 Waiver: ,0.0,LOUISIANA
+157,3/26,Premium Grace Period: ,0.0,LOUISIANA
+158,5/15,"Stay At Home Order, Non-Essential Business Closures: ",1.0,LOUISIANA
+159,3/12,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,MAINE
+160,"3/15, 4/14",Proclamation of Civil Emergency: ,0.0,MAINE
+161,"3/18, 3/31","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,MAINE
+162,"3/24, 3/31",Non-Essential Business Closure: ,0.0,MAINE
+163,"3/31, 4/7, 4/29","Stay At Home Order, School Closures: ",0.0,MAINE
+164,4/7,Section 1135 Waiver: ,0.0,MAINE
+165,4/10,Primary Election Postponement: ,0.0,MAINE
+166,4/30,Non-Essential Business Closures: ,1.0,MAINE
+167,3/5,Emergency Declaration; Catastrophic Health Emergency: ,0.0,MARYLAND
+168,"3/6, 3/10","Free Vaccine, Early Rx Refill: ",0.0,MARYLAND
+169,3/13,Marketplace SEP: ,0.0,MARYLAND
+170,3/16,Large Gatherings: ,0.0,MARYLAND
+171,"3/16, 4/17, 5/6",School Closures: ,0.0,MARYLAND
+172,3/16,Bar/Restaurant Limits: ,0.0,MARYLAND
+173,3/17,Primary Election Postponement: ,0.0,MARYLAND
+174,3/23,Non-Essential Business Closure: ,0.0,MARYLAND
+175,3/26,Section 1135 Waiver: ,0.0,MARYLAND
+176,3/30,Stay At Home Order,0.0,MARYLAND
+177,5/15,"Stay At Home Order, Non-Essential Business Closures: ",1.0,MARYLAND
+178,"3/6, 3/30, 4/9","Cost-Sharing Waiver (Treatment), Free Vaccine, Waive Prior Auth: ",0.0,MASSACHUSETTS
+179,3/10,Emergency Declaration: ,0.0,MASSACHUSETTS
+180,"3/11, 3/30",Marketplace SEP: ,0.0,MASSACHUSETTS
+181,3/15,Bar/Restaurant Limits: ,0.0,MASSACHUSETTS
+182,"3/15, 4/21",School Closures: ,0.0,MASSACHUSETTS
+183,"3/23,","Non-Essential Business Closures, Large Gatherings: ",0.0,MASSACHUSETTS
+184,3/26,Early Rx Refill: ,0.0,MASSACHUSETTS
+185,3/26,Section 1135 Waiver: ,0.0,MASSACHUSETTS
+186,3/27,Mandatory Quarantine for Travelers: ,0.0,MASSACHUSETTS
+187,3/31,"Extension of Non-Essential Business Closures, Large Gatherings: ",0.0,MASSACHUSETTS
+188,4/28:,"Extension of Non-Essential Business CLosures, Large Gatherings: ",0.0,MASSACHUSETTS
+189,5/18,"Extension of Non-Essential Business CLosures, Large Gatherings:  ",0.0,MASSACHUSETTS
+190,3/10,Emergency Declaration:,0.0,MICHIGAN
+191,3/16,School Closures: ,0.0,MICHIGAN
+192,3/17,Bar/Restaurant Limits,0.0,MICHIGAN
+193,3/23,"Stay At Home Order, Non-Essential Business Closure, Large Gatherings: ",0.0,MICHIGAN
+194,4/2,Extension of School Closures: ,0.0,MICHIGAN
+195,4/6,Section 1135 Waiver: ,0.0,MICHIGAN
+196,4/9,"Extension of Stay at Home Order, Non-Essential Business Closure, and Large Gatherings Ban: ",0.0,MICHIGAN
+197,4/10,Cost-Sharing Waiver (Treatment): ,0.0,MICHIGAN
+198,4/14:,Extension of Non-Essential Business Closure and Bar/Restaurant Limits: ,0.0,MICHIGAN
+199,4/21,Early Rx Refill,0.0,MICHIGAN
+200,4/24,Extension of Stay at Home Order: ,0.0,MICHIGAN
+201,4/30,"Extension of Non-Essential Business Closures, Bar/Restaurant Limits: ",0.0,MICHIGAN
+202,5/7,"Extension of Stay at Home Order, Large Gatherings Ban: ",0.0,MICHIGAN
+203,4/24,Non-Essential Business Closures (announced 4/24): ,1.0,MICHIGAN
+204,5/7,Non-Essential Business Closures (announced 5/1): ,1.0,MICHIGAN
+205,5/11,Non-Essential Business Closures (announced 5/7): ,1.0,MICHIGAN
+206,5/21,Large Gatherings Ban (announced 5/21): ,1.0,MICHIGAN
+207,3/13,Peacetime Emergency,0.0,MINNESOTA
+208,3/15,School Closures: ,0.0,MINNESOTA
+209,3/16,Bar/Restaurant Limits: ,0.0,MINNESOTA
+210,3/25,Stay At Home Order: ,0.0,MINNESOTA
+211,3/25,Extension of School Closures: ,0.0,MINNESOTA
+212,3/27,Section 1135 Waiver: ,0.0,MINNESOTA
+213,4/2,Cost-Sharing Waiver (Treatment): ,0.0,MINNESOTA
+214,4/8,"Extension of Stay At Home Order, Bar/Restaurant Limits: ",0.0,MINNESOTA
+215,4/24,Extension of School Closures: ,0.0,MINNESOTA
+216,4/30,"Extension of Stay at Home Order, Bar/Restaurant Limits: ",0.0,MINNESOTA
+217,5/13,Extension of Bar/Restaurant Limits: ,0.0,MINNESOTA
+218,5/13,Large Gatherings Ban: ,0.0,MINNESOTA
+219,4/27,Non-Essential Business Closures (announced 4/23): ,1.0,MINNESOTA
+220,5/18,"Stay at Home Order, Non-Essential Business Closures (announced 5/13): ",1.0,MINNESOTA
+221,3/14,Emergency Declaration:,0.0,MISSISSIPPI
+222,3/19,School Closures: ,0.0,MISSISSIPPI
+223,3/20,Primary Election Postponement: ,0.0,MISSISSIPPI
+224,3/23,Section 1135 Waiver: ,0.0,MISSISSIPPI
+225,3/24,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,MISSISSIPPI
+226,3/25,Premium Grace Period: ,0.0,MISSISSIPPI
+227,3/31,Stay at Home Order: ,0.0,MISSISSIPPI
+228,4/15,Extension of School Closures: ,0.0,MISSISSIPPI
+229,4/17,Extension of Stay at Home Order: ,0.0,MISSISSIPPI
+230,4/27:,Extension of Large Gatherings Ban: ,0.0,MISSISSIPPI
+231,5/8,Extension of Large Gatherings Ban: ,0.0,MISSISSIPPI
+232,4/27,"Stay at Home Order, Non-Essential Business Closures (announced 4/17): ",1.0,MISSISSIPPI
+233,5/7,Bar/Restaurant Limits (announced 5/4): ,1.0,MISSISSIPPI
+234,5/8,Non-Essential Business Closures (announced 5/8): ,1.0,MISSISSIPPI
+235,5/15,"Non-Essential Business Closures, Bar/Restaurant Limits (announced 5/15): ",1.0,MISSISSIPPI
+236,3/13,Emergency Declaration: ,0.0,MISSOURI
+237,3/21,School Closures: ,0.0,MISSOURI
+238,"3/21, 4/3","Large Gatherings, Bar/Restaurant Limits: ",0.0,MISSOURI
+239,3/25,Section 1135 Waiver: ,0.0,MISSOURI
+240,4/3,"Stay At Home Order, Non-Essential Business Closures: ",0.0,MISSOURI
+241,4/9,Extension of School Closures: ,0.0,MISSOURI
+242,4/16,Extension of Stay at Home Order: ,0.0,MISSOURI
+243,5/4,"Non-essential Business Closures, Bar/Restaurant Limits (announced 4/27): ",1.0,MISSOURI
+244,3/12,Emergency Declaration: ,0.0,MONTANA
+245,3/15,School Closures: ,0.0,MONTANA
+246,3/20,Bar/Restaurant Limits: ,0.0,MONTANA
+247,3/24,"Large Gatherings Ban, School Closure Extension: ",0.0,MONTANA
+248,3/26,"Stay at Home Order, Non-Essential Business Closure, Large Gatherings Ban: ",0.0,MONTANA
+249,3/30,Section 1135 Waiver: ,0.0,MONTANA
+250,3/31,Mandatory Traveler Quarantine: ,0.0,MONTANA
+251,4/7,"Extension of School Closures, Bar/Restaurant Limits, Stay at Home Order, Non-Essential Business Closure, Large Gatherings Ban, and Mandatory Traveler Quarantine: ",0.0,MONTANA
+252,4/26,"Stay-at-Home Order, Non-Essential Business Closures (announced 4/22): ",1.0,MONTANA
+253,5/4,Bar/Restaurant Limits (announced 4/22) ,1.0,MONTANA
+254,5/7,School Closures (announced 4/22): ,1.0,MONTANA
+255,5/15,Non-Essential Business Closures (announced 5/11): ,1.0,MONTANA
+256,3/13,Emergency Declaration: ,0.0,NEBRASKA
+257,"3/19, 3/25","Large Gatherings Ban, School Closures: ",0.0,NEBRASKA
+258,3/30,Bar/Restaurant Limits: ,0.0,NEBRASKA
+259,4/1,School Closures: ,0.0,NEBRASKA
+260,4/2,Section 1135 Waiver: ,0.0,NEBRASKA
+261,4/3,"Large Gatherings Ban, School Closures, Bar/Restaurant Limits: ",0.0,NEBRASKA
+262,5/4,Bar/Restaurant Limits (announced 4/24): ,1.0,NEBRASKA
+263,5/11,Bar/Restaurant Limits (announced 4/24): ,1.0,NEBRASKA
+264,3/5,Free Vaccine: ,0.0,NEVADA
+265,3/13,Emergency Declaration: ,0.0,NEVADA
+266,3/15,"Large Gatherings Ban, School Closures: ",0.0,NEVADA
+267,3/17,Bar/Restaurant Limits: ,0.0,NEVADA
+268,3/17,Marketplace SEP:  ,0.0,NEVADA
+269,3/19,Large Gatherings Ban: ,0.0,NEVADA
+270,3/20,Non-Essential Business Closures: ,0.0,NEVADA
+271,3/24,Large Gatherings Ban: ,0.0,NEVADA
+272,4/1,"Stay at Home Order, Non-Essential Business Closures: ",0.0,NEVADA
+273,4/7,Section 1135 Waiver: ,0.0,NEVADA
+274,4/14,Extension of School Closures: ,0.0,NEVADA
+275,4/21,Extension of School Closures: ,0.0,NEVADA
+276,4/29,"Extension of Stay at Home Order, Large Gatherings Ban: ",0.0,NEVADA
+277,5/9,"Non-Essential Business Closures, Bar/Restaurant Limits: ",1.0,NEVADA
+278,3/10,"Waive Prior Auth, Early Rx Refill:",0.0,NEW HAMPSHIRE
+279,3/13,Emergency Declaration: ,0.0,NEW HAMPSHIRE
+280,3/15,School Closures: ,0.0,NEW HAMPSHIRE
+281,3/16,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,NEW HAMPSHIRE
+282,3/23,Section 1135 Waiver: ,0.0,NEW HAMPSHIRE
+283,3/24,Large Gatherings Ban: ,0.0,NEW HAMPSHIRE
+284,3/26,"Stay at Home Order, Non-Essential Business Closures: ",0.0,NEW HAMPSHIRE
+285,3/27,School Closures: ,0.0,NEW HAMPSHIRE
+286,4/4,"Extension of Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,NEW HAMPSHIRE
+287,4/16,Extension of School Closures: ,0.0,NEW HAMPSHIRE
+288,5/1,"Extension of Stay at Home Orde, Large Gatherings Banr: ",0.0,NEW HAMPSHIRE
+289,5/11,Non-Essential Business Closures (announced 5/1): ,1.0,NEW HAMPSHIRE
+290,5/18,Bar/Restaurant Limits (announced 5/1): ,1.0,NEW HAMPSHIRE
+291,3/9,"Emergency Declaration, Public Health Emergency: ",0.0,NEW JERSEY
+292,3/16,"Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,NEW JERSEY
+293,3/16,School Closures: ,0.0,NEW JERSEY
+294,3/21,"Stay At Home Order, Non-Essential Retail Business Closures, Large Gatherings Ban: ",0.0,NEW JERSEY
+295,3/23,Section 1135 Waiver: ,0.0,NEW JERSEY
+296,4/8,Primary Election Postponement: ,0.0,NEW JERSEY
+297,4/9,Premium Grace Period: ,0.0,NEW JERSEY
+298,4/16,Extension of School Closures:,0.0,NEW JERSEY
+299,5/2,Extension of School Closures: ,0.0,NEW JERSEY
+300,5/13,Large Gatherings Ban (announced 5/13): ,1.0,NEW JERSEY
+301,5/18,Non-Essential Business Closures (announced 5/13): ,1.0,NEW JERSEY
+302,3/11,"Public Health Emergency, Cost-Sharing Waiver (Treatment): ",0.0,NEW MEXICO
+303,3/13,Cost-Sharing Waiver (Treatment): ,0.0,NEW MEXICO
+304,"3/13, 3/26",School Closures: ,0.0,NEW MEXICO
+305,"3/15, 4/6",Bar/Restaurant Limits: ,0.0,NEW MEXICO
+306,3/16,Large Gatherings Ban: ,0.0,NEW MEXICO
+307,3/23,Non-Essential Retail Business Closures: ,0.0,NEW MEXICO
+308,3/23,Section 1135 Waiver: ,0.0,NEW MEXICO
+309,3/23,Stay at Home Order: ,0.0,NEW MEXICO
+310,3/27,Mandatory Quarantine for Travelers: ,0.0,NEW MEXICO
+311,"4/6, 4/11, 5/1, 5/15",Extension of All Orders Relating to COVID-19: ,0.0,NEW MEXICO
+312,5/15,"Non-Essential Business Closures, Large Gatherings Ban (announced 5/15): ",1.0,NEW MEXICO
+313,"3/3, 3/13",Free Vaccine: ,0.0,NEW YORK
+314,3/7,Emergency Declaration: ,0.0,NEW YORK
+315,3/14,Bar/Restaurant Limits: ,0.0,NEW YORK
+316,"3/16, 5/4",Marketplace SEP: ,0.0,NEW YORK
+317,"3/16, 3/27, 5/1, 5/7",School Closures: ,0.0,NEW YORK
+318,3/17,Paid Sick Leave: ,0.0,NEW YORK
+319,"3/20, 3/27, 4/16","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,NEW YORK
+320,3/26,Section 1135 Waiver: ,0.0,NEW YORK
+321,3/28,Primary Election Postponement: ,0.0,NEW YORK
+322,4/2,Premium Grace Period: ,0.0,NEW YORK
+323,"4/7, 4/16, 5/14",Extension of All Orders Relating to COVID-19: ,0.0,NEW YORK
+324,5/14,Non-Essential Business Closures (announced 5/14): ,1.0,NEW YORK
+325,3/10,Emergency Declaration:,0.0,NORTH CAROLINA
+326,"3/14, 3/23, 3/27","Large Gatherings Ban, School Closures: ",0.0,NORTH CAROLINA
+327,3/14,Bar/Restaurant Limits: ,0.0,NORTH CAROLINA
+328,3/23,Section 1135 Waiver: ,0.0,NORTH CAROLINA
+329,"3/27, 4/23","Stay At Home Order, Non-Essential Business Closures: ",0.0,NORTH CAROLINA
+330,3/27,Premium Grace Period: ,0.0,NORTH CAROLINA
+331,5/5,"Extension of COVID-19 related orders, except for Non-Essential Business Closures: ",0.0,NORTH CAROLINA
+332,5/8,Non-Essential Business Closures (announced 5/5): ,1.0,NORTH CAROLINA
+333,3/13,Emergency Declaration:,0.0,NORTH DAKOTA
+334,"3/15, 3/30",School Closures: ,0.0,NORTH DAKOTA
+335,3/24,Section 1135 Waiver: ,0.0,NORTH DAKOTA
+336,"3/28, 4/8",Mandatory Quarantine for Travelers: ,0.0,NORTH DAKOTA
+337,"4/2, 4/15",Non-Essential Business Closures: ,0.0,NORTH DAKOTA
+338,5/1,Non-Essential Business Closures and Restaurant Limits (announced 4/29): ,1.0,NORTH DAKOTA
+339,5/15,Non-Essential Business Closures (announced 5/15): ,1.0,NORTH DAKOTA
+340,3/9,Emergency Declaration: ,0.0,OHIO
+341,"3/12, 3/30, 4/20",School Closures: ,0.0,OHIO
+342,"3/15, 4/2",Bar/Restaurant Limits: ,0.0,OHIO
+343,3/16,Primary Election Postponement: ,0.0,OHIO
+344,3/20,Premium Grace Period: ,0.0,OHIO
+345,3/22,Mandatory Quarantine for Travelers: ,0.0,OHIO
+346,"3/22, 4/2","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,OHIO
+347,4/22,Section 1135 Waiver: ,0.0,OHIO
+348,5/1,Non-Essential Business Closures (announced 4/30): ,1.0,OHIO
+349,5/15,Non-Essential Business Closures (announced 5/12): ,1.0,OHIO
+350,5/15,Restaurant Limits (announced 5/7): ,1.0,OHIO
+351,5/20,"Stay-At-Home Order, Mandatory Quarantine for Travelers (announced 5/20): ",1.0,OHIO
+352,"3/15, 4/2, 5/1",Emergency Declaration:,0.0,OKLAHOMA
+353,"3/16, 3/25",School Closures: ,0.0,OKLAHOMA
+354,"3/24, 4/1","Stay At Home Order, Non-Essential Business Closures, Large Gatherings Ban: ",0.0,OKLAHOMA
+355,3/24,Section 1135 Waiver: ,0.0,OKLAHOMA
+356,3/29,Mandatory Quarantine for Travelers: ,0.0,OKLAHOMA
+357,4/6,"Waive Prior Auth, Early Rx Refill, Premium Grace Period: ",0.0,OKLAHOMA
+358,"4/8, 4/16",Extension of All COVID-19 Related Orders: ,0.0,OKLAHOMA
+359,4/24,"Non-Essential Business Closures, 5/1 Non-Essential Business Closures and Restaurant Limits (announced 4/22): ",1.0,OKLAHOMA
+360,3/5,Free Vaccine: ,0.0,OREGON
+361,"3/8, 5/1","Emergency Declaration, Disaster Declaration: ",0.0,OREGON
+362,3/16,Bar/Restaurant Limits: ,0.0,OREGON
+363,"3/17, 4/8, 4/23",School Closures: ,0.0,OREGON
+364,3/23,"Stay At Home Order, Non-Essential Business Closure, Large Gatherings Ban: ",0.0,OREGON
+365,3/25,Section 1135 Waiver: ,0.0,OREGON
+366,"3/25, 4/24, 5/6",Premium Grace Period: ,0.0,OREGON
+367,5/15,"Non-Essential Business Closures, Large Gatherings Ban, Restaurant Limits (announced 5/14): ",1.0,OREGON
+368,3/6,Disaster Proclamation: ,0.0,PENNSYLVANIA
+369,3/10,Waive Prior Auth: ,0.0,PENNSYLVANIA
+370,"3/13, 4/9",School Closures: ,0.0,PENNSYLVANIA
+371,3/16,Bar/Restaurant Limits: ,0.0,PENNSYLVANIA
+372,3/19,Non-Essential Business Closures: ,0.0,PENNSYLVANIA
+373,"3/23, 3/24, 3/25, 3/27, 3/28, 3/30, 3/31, 4/1, 5/7","Stay At Home Order, Large Gatherings Ban: ",0.0,PENNSYLVANIA
+374,3/27,Section 1135 Waiver: ,0.0,PENNSYLVANIA
+375,"5/8, 5/15","Stay at Home Order, Non-Essential Business Closures, Large Gatherings Ban (announced 5/7): ",1.0,PENNSYLVANIA
+376,"3/9, 4/8",Emergency Declaration: ,0.0,RHODE ISLAND
+377,3/13,"Free Vaccine, Waive Prior Auth, Early Rx Refill: ",0.0,RHODE ISLAND
+378,"3/16, 3/28, 4/10","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,RHODE ISLAND
+379,"3/18, 3/30",School Closures: ,0.0,RHODE ISLAND
+380,3/23,Primary Election Postponement: ,0.0,RHODE ISLAND
+381,3/25,Section 1135 Waiver: ,0.0,RHODE ISLAND
+382,"3/13, 3/26, 3/28, 4/10",Stay At Home Order: ,0.0,RHODE ISLAND
+383,3/28,Mandatory Quarantine for Travelers: ,0.0,RHODE ISLAND
+384,4/27:,Waive Prior Auth: ,0.0,RHODE ISLAND
+385,"5/7, 5/15",Extension of COVID-19 Related Orders: ,0.0,RHODE ISLAND
+386,3/13,Emergency Declaration: ,0.0,SOUTH CAROLINA
+387,"3/15, 3/24, 4/12, 4/22",School Closures: ,0.0,SOUTH CAROLINA
+388,"3/17, 4/6","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,SOUTH CAROLINA
+389,3/27,Mandatory Quarantine for Travelers: ,0.0,SOUTH CAROLINA
+390,3/31,Section 1135 Waiver: ,0.0,SOUTH CAROLINA
+391,"3/31, 4/6",Non-Essential Business Closures: ,0.0,SOUTH CAROLINA
+392,4/6,Stay At Home Order: ,0.0,SOUTH CAROLINA
+393,4/20,Non-Essential Business Closures (announced 4/20):,1.0,SOUTH CAROLINA
+394,5/4,"Stay-At-Home Order, Mandatory Quarantine for Travelers, Restaurant Limits (announced 5/1): ",1.0,SOUTH CAROLINA
+395,5/11,Restaurant Limits (announced 5/8): ,1.0,SOUTH CAROLINA
+396,5/18,Non-Essential Business Closures (announced 5/15): ,1.0,SOUTH CAROLINA
+397,3/13,Emergency Declaration: ,0.0,SOUTH DAKOTA
+398,"3/13, 3/24, 4/6",School Closures: ,0.0,SOUTH DAKOTA
+399,"3/23, 4/6",Large Gatherings Ban:,0.0,SOUTH DAKOTA
+400,3/24,Section 1135 Waiver: ,0.0,SOUTH DAKOTA
+401,4/28,Large Gathering Ban (announced 4/28),1.0,SOUTH DAKOTA
+402,"3/12, 5/6",Emergency Declaration:,0.0,TENNESSEE
+403,"3/16, 3/24, 4/15 ",School Closures: ,0.0,TENNESSEE
+404,"3/22, 4/13","Large Gatherings Ban, Bar/Restaurant Limits:",0.0,TENNESSEE
+405,3/31,Section 1135 Waiver: ,0.0,TENNESSEE
+406,"3/13, 4/12, 5/12",Emergency Declaration: ,0.0,TEXAS
+407,"3/19, 3/31","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,TEXAS
+408,3/30,Section 1135 Waiver: ,0.0,TEXAS
+409,3/31,Stay At Home Order:,0.0,TEXAS
+410,5/1,Bar/Restaurant Limits (announced 4/27),1.0,TEXAS
+411,5/21,Mandatory Quarantine for Travelers (announced 5/21),1.0,TEXAS
+412,3/6,Emergency Declaration:,0.0,UTAH
+413,"3/13, 3/24, 4/14",School Closures: ,0.0,UTAH
+414,"3/18, 4/1",Large Gatherings Ban:,0.0,UTAH
+415,"3/18, 4/1, 4/14",Bar/Restaurant Limits: ,0.0,UTAH
+416,3/27,Stay At Home Order ,0.0,UTAH
+417,4/10,Mandatory Quarantine for Travelers:,0.0,UTAH
+418,4/10,Section 1135 Waiver: ,0.0,UTAH
+419,5/1,"Mandatory Quarantine for Travelers, ",1.0,UTAH
+420,"5/1, 5/16",Large Gatherings Ban,1.0,UTAH
+421,"3/13, 4/10, 5/15",Emergency Declaration: ,0.0,VERMONT
+422,"3/15, 3/26",School Closures: ,0.0,VERMONT
+423,"3/16, 5/15",Bar/Restaurant Limits: ,0.0,VERMONT
+424,3/20,Marketplace SEP: ,0.0,VERMONT
+425,3/30,Mandatory Quarantine for Travelers: ,0.0,VERMONT
+426,3/30,Section 1135 Waiver: ,0.0,VERMONT
+427,4/20,Non-Essential Business Closures(announced 4/17),1.0,VERMONT
+428,3/12,Emergency Declaration: ,0.0,VIRGINIA
+429,"3/13, 3/23, 3/30",School Closures; ,0.0,VIRGINIA
+430,"3/23, 4/15","Non-Essential Business Closures, Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,VIRGINIA
+431,3/23,Section 1135 Waiver: ,0.0,VIRGINIA
+432,3/30,Stay At Home Order: ,0.0,VIRGINIA
+433,4/13,Primary Election Postponement (local): ,0.0,VIRGINIA
+434,2/29,Emergency Declaration: ,0.0,WASHINGTON
+435,"3/5, 5/1","Early Rx Refill, Waive Prior Auth: ",0.0,WASHINGTON
+436,"3/10, 4/1",Marketplace SEP: ,0.0,WASHINGTON
+437,3/15,Section 1135 Waiver:  ,0.0,WASHINGTON
+438,"3/13, 4/6",School Closures: ,0.0,WASHINGTON
+439,"3/16, 3/23",Large Gatherings Ban: ,0.0,WASHINGTON
+440,3/15,Bar/Restaurant Limits: ,0.0,WASHINGTON
+441,"3/23,4/2, 5/4",Stay At Home Order/Non-Essential Business Closures:,0.0,WASHINGTON
+442,3/24,Premium Grace Period: ,0.0,WASHINGTON
+443,5/11,Bar/Restaurant Limits (,1.0,WASHINGTON
+444,3/4,Preparedness Proclamation,0.0,WEST VIRGINIA
+445,3/13,Early Rx Refill:,0.0,WEST VIRGINIA
+446,"3/13, 3/25, 4/21",School Closures: ,0.0,WEST VIRGINIA
+447,"3/17, 3/23",Bar/Restaurant Limits: ,0.0,WEST VIRGINIA
+448,"3/18, 3/26",Premium Grace Period: ,0.0,WEST VIRGINIA
+449,3/23,Stay At Home Order/Non-Essential Business Closures: ,0.0,WEST VIRGINIA
+450,3/30,Mandatory Quarantine for Travelers: ,0.0,WEST VIRGINIA
+451,3/30,Section 1135 Waiver: ,0.0,WEST VIRGINIA
+452,4/1,Primary Election Postponement: ,0.0,WEST VIRGINIA
+453,4/4,Large Gatherings Ban: ,0.0,WEST VIRGINIA
+454,"5/4,5/11, 5/21","Non-Essential Business Closures, Bar/Restaurant Limits, ",1.0,WEST VIRGINIA
+455,3/12,Public Health Emergency: ,0.0,WISCONSIN
+456,"3/16, 3/17, 3/20, 3/24, 4/6, 4/16","Large Gatherings Ban, Bar/Restaurant Limits: ",0.0,WISCONSIN
+457,"3/18, 3/20, 4/16",School Closures: ,0.0,WISCONSIN
+458,"3/24, 4/16",Stay At Home Order/Non-Essential Business Closures: ,0.0,WISCONSIN
+459,4/20,Section 1135 Waiver: ,0.0,WISCONSIN
+460,"4/24, 5/11, 5/13",Non-Essential Business Closures(announced 4/16),1.0,WISCONSIN
+461,5/13,"Stay At Home Order, ",1.0,WISCONSIN
+462,3/13,"Emergency Declaration, Public Health Emergency: ",0.0,WYOMING
+463,"3/19, 3/27, 4/3, 4/28, 5/13","School Closures, Bar/Restaurant Limits: ",0.0,WYOMING
+464,"3/20, 3/27, 4/3, 4/28",Large Gatherings Ban: ,0.0,WYOMING
+465,3/27,Section 1135 Waiver: ,0.0,WYOMING
+466,"4/3, 4/29",Mandatory Quarantine for Travelers:,0.0,WYOMING
+467,5/15,Bar/Restaurant Limits,1.0,WYOMING
